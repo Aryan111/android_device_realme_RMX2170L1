@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_RMX2170L1.mk
+    $(LOCAL_DIR)/twrp_RMX2170L1.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_RMX2170L1-user \
-    omni_RMX2170L1-userdebug \
-    omni_RMX2170L1-eng
+    twrp_RMX2170L1-user \
+    twrp_RMX2170L1-userdebug \
+    twrp_RMX2170L1-eng
